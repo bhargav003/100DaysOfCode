@@ -17,4 +17,4 @@ which is Article.js, User.js in models and its schema on mongodb
 
 **Link to work:** [Portfolio Page](http://www.example.me)
 
-https://github.com/bhargav003/Medium-blog-with-react-and-node
+https://github.com/bhargav003/medium-react-node
